@@ -1,5 +1,7 @@
 # Manual de uso do IntelliJ IDEA
 
+![Imagem do WhatsApp]
+
 Passo a Passo de Instalação:
 1. Download: Acesse o site oficial da JetBrains e baixe o IntelliJ IDEA para o seu computador.
 2. Abrir o instalador: Depois que o download terminar, abra o arquivo e siga as instruções que aparecerem na tela.
