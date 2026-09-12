@@ -2,7 +2,12 @@
 
 # Manual de uso do IntelliJ IDEA
 
-<img width="337" height="305" alt="image" src="WhatsApp Image 2026-09-11 at 20.53.20.jpeg" />
+<img width="337" height="305" alt="image" src="https://github.com/user-attachments/assets/a02beba9-9615-4b8c-a6d7-4389605b9293" />
+
+
+</div> 
+
+----
 
 Passo a Passo de Instalação:
 1. Download: Acesse o site oficial da JetBrains e baixe o IntelliJ IDEA para o seu computador.
