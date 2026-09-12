@@ -1,6 +1,6 @@
 # Manual de uso do IntelliJ IDEA
 <p aling= "center"> 
-  <img src="https://github.com/Vitoria2304/vitoria/blob/main/WhatsApp%20Image%202026-09-11%20at%2020.53.20.jpeg" 
+  <img src="https://github.com/Vitoria2304/vitoria/blob/main/WhatsApp%20Image%202026-09-11%20at%2020.53.20.jpeg" width="500">
 </p> 
 Passo a Passo de Instalação:
 1. Download: Acesse o site oficial da JetBrains e baixe o IntelliJ IDEA para o seu computador.
